@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/test-local-storage/static/js/main.f6c2287f.js",
+    "index.html": "/test-local-storage/index.html",
+    "main.f6c2287f.js.map": "/test-local-storage/static/js/main.f6c2287f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f6c2287f.js"
+  ]
+}
